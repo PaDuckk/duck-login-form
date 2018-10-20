@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="ryan"
+   viewBox="0 0 120 120"
+   version="1.1"
+   sodipodi:docname="duck.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata3793">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3791" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview3789"
+     showgrid="false"
+     inkscape:zoom="9.5459415"
+     inkscape:cx="50.540634"
+     inkscape:cy="63.576832"
+     inkscape:window-x="1911"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="ryan" />
+  <path
+     d="M0,150 C0,65 120,65 120,150"
+     fill="#ffcb01"
+     stroke="#000"
+     stroke-width="2"
+     id="path3762" />
+  <circle
+     cx="60"
+     cy="60"
+     r="40"
+     fill="#ffcb01"
+     stroke="#000"
+     stroke-width="2"
+     id="circle3764" />
+  <g
+     class="eyes"
+     id="g3774"><!-- 왼쪽 눈과 눈썹-->
+<ellipse
+   cx="44"
+   cy="55"
+   rx="7"
+   id="ellipse3766" />
+ry=&quot;8&quot; fill=&quot;#000&quot; /&gt;
+                <ellipse
+   cx="45"
+   cy="53"
+   rx="1.5"
+   id="ellipse3768" />
+ry=&quot;2&quot; fill=&quot;#fff&quot; /&gt;
+                <!-- 오른쪽 눈과 눈썹 -->
+<ellipse
+   cx="76"
+   cy="55"
+   rx="7"
+   id="ellipse3770" />
+ry=&quot;8&quot; fill=&quot;#000&quot; /&gt;
+                <ellipse
+   cx="75"
+   cy="53"
+   rx="1.5"
+   id="ellipse3772" />
+ry=&quot;2&quot; fill=&quot;#fff&quot; /&gt;
+            </g>
+  <g
+     class="muzzle"
+     id="g3786">
+    <path
+       d="M40,80 C40,75.5 80,75.5 80,80"
+       fill="#ff5402"
+       stroke="#ff5402"
+       stroke-width="1"
+       id="path3776" />
+    <path
+       d="M50,77 C60,70 60,70 70,77"
+       fill="#ff5402"
+       stroke="#ff5402"
+       stroke-width="1"
+       id="path3778" />
+    <path
+       d="M40,80 C40,90 80,90 80,80"
+       fill="#ff5402"
+       stroke="#ff5402"
+       stroke-width="1"
+       id="path3780" />
+    <polygon
+       points="62,73.5 62.5,74"
+       fill="#000"
+       stroke="#000"
+       stroke-width="1"
+       stroke-linejoin="round"
+       id="polygon3782" />
+    <polygon
+       points="58.5,73.5 58,74"
+       fill="#000"
+       stroke="#000"
+       stroke-width="1"
+       stroke-linejoin="round"
+       id="polygon3784" />
+  </g>
+  <ellipse
+     id="path3795"
+     cx="43.578728"
+     cy="52.589153"
+     rx="8.0662556"
+     ry="9.3757124" />
+  <ellipse
+     id="path3795-5"
+     cx="75.110458"
+     cy="52.012993"
+     rx="8.0662556"
+     ry="9.3757124" />
+</svg>

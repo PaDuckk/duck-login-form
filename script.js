@@ -65,8 +65,8 @@ function look(event) {
     const caretPos = caretRect.left + Math.min(caretRect.width, inputRect.width) * !!text;
     const distCaret = ryanRect.left + ryanRect.width/2 - inputRect.left - caretPos;
     const distInput = ryanRect.top + ryanRect.height/2 - inputRect.top;
-    const y = Math.atan2(-distCaret, Math.abs(distInput)*5);
-    const x =  Math.atan2(distInput, Math.abs(distInput)*5 / Math.cos(y));
+    const y = Math.atan2(-distCaret, Math.abs(distInput)*4.5);
+    const x =  Math.atan2(distInput, Math.abs(distInput)*4.5 / Math.cos(y));
     const angle = Math.max(Math.abs(x), Math.abs(y));
 
     rotate3d(x/angle, y/angle, y/angle/2, angle);
